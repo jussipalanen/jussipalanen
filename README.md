@@ -1,6 +1,6 @@
 # Hi, I'm Jussi 👋
 
-I'm a Senior Software Developer based in Joensuu, Finland, with over 10 years of experience building web applications and integrations.
+I'm an experienced software developer based in Joensuu, Finland. For over 10 years, I've been building web applications and integrations.
 
 I work across the full stack, with a focus on backend development and APIs. I enjoy solving practical problems and building software that is easy to maintain.
 
